@@ -6,5 +6,5 @@ This program only includes very basic features :
 - Multiplication and division,
 - Power, square root and cube root.
 
-To install, simply run make && make clean.
+To install, simply clone this repo and run make && make clean.
 After, it is recommended to copy the binary to a folder in your $PATH (e.g /usr/local/bin/)
