@@ -6,4 +6,4 @@ This program only includes very basic features :
 - Power, square root and cube root.
 
 To install, simply run make && make clean.
-After, it is recommended to copy the binary to a folder in your $PATH (e.g /usr/local/bin/
+After, it is recommended to copy the binary to a folder in your $PATH (e.g /usr/local/bin/)
