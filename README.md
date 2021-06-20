@@ -1,5 +1,5 @@
 # Simplecalc
-Simple command line calculator utility wiritten in C with few lines of code and features.
+Simple command line calculator utility written in C with few lines of code and features.
 This program only includes very basic features :
 - Addition and subtraction,
 - Multiplication and division,
